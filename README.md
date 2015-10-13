@@ -4,7 +4,6 @@
 ```
 node generation.js <file name>
 node_modules/.bin/istanbul cover test.js
-open coverage/lcov-report/TestGeneration/subject.js.html
 ```
 
 ## Screenshot
