@@ -9,4 +9,5 @@ open coverage/lcov-report/HW2/subject.js.html
 
 ## Screenshot
 This screenshot is for the file subject.js
+
 ![alt text](./coverage_shot.png "Screenshot")
